@@ -1,0 +1,5 @@
+"CellType","Cluster","Upregulated_Genes","Downregulated_Genes","Top_Upregulated","Top_Downregulated"
+"Microglia_Homeostatic","0",224,1366,"Mbp, Crlf2, Ang4","Ins2, Ins1, Iapp"
+"Microglia_Activated","1",124,1156,"Mbp, Apoa1, Cpe","Ins2, Iapp, Gcg"
+"OPC_Progenitors","3",17,42,"Dusp5, Xist, Tsix","Fkbp5, Lars2, Gsn"
+"Microglia_DAM","5",28,147,"Crlf2, Gm6981, Tmsb10","Pcolce, F13a1, Ptgds"

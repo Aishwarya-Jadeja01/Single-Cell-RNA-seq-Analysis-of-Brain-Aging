@@ -1,0 +1,8 @@
+"Metric","Before_Filtering","After_Filtering"
+"Total cells",20666,20553
+"Young cells",7974,7897
+"Old cells",12692,12656
+"Median genes/cell",1943,1937
+"Median UMIs/cell",808239.5,807028
+"Median mt%",0,0
+"Median ribo%",1.29,1.29

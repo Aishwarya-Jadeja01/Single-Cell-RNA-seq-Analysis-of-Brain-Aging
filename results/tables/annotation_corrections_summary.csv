@@ -1,0 +1,17 @@
+"Cluster","Old_Name","Corrected_Name","Canonical_Marker","Cell_Count"
+0,"Microglia_Homeostatic","Microglia","P2ry12+",22
+1,"Microglia_Activated","Microglia_Activated","?",514
+2,"Oligodendrocytes","Endothelial","Cldn5+",1609
+3,"OPC_Progenitors","Proliferating_Cells","Histones+",167
+4,"Astrocytes","Oligodendrocytes","Mog+",6127
+5,"Microglia_DAM","Microglia_Inflammatory","?",3716
+6,"Oligodendrocytes_Myelinating","Oligodendrocytes_Immature","?",328
+7,"Astrocytes_Reactive","Neurons","Rbfox3+",720
+8,"Endothelial","Astrocytes","Aqp4+",549
+9,"Pericytes_SMC","Pericytes","?",976
+10,"Macrophages_BAM","Microglia_Border","?",695
+11,"Mixed_Population","Smooth_Muscle_Cells","Acta2+",59
+12,"Ependymal","Ependymal_Choroid","?",336
+13,"Rare_CellType1","Rare_Population_1","?",1082
+14,"Rare_CellType2","OPC","Pdgfra+",60
+15,"Senescent_Cells","Age_Associated_Cells","?",213
